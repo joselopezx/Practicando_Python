@@ -10,3 +10,21 @@ pd.head(variable donde se guardo el data frame)
 
 pd.ExcelFile(variable donde se guardo el data frame).sheet_names // devuelve el nombre de las hojas del excel
 
+para abrir una hoja en especifico
+pd.read_excel(nombre archivo, sheet_name="nombre de hoja")
+
+variable.tail()
+
+variable.sample(numero de datos aleatorios)
+
+parametro cols (rango) // en formato de excel ejp A:F
+
+nrows para obtener solo un numero especifo de filas
+
+## Documentación
+https://pandas.pydata.org
+
+
+
+
+
