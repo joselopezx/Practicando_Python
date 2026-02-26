@@ -1,3 +1,4 @@
+#https://github.com/alura-es-cursos/2063-visualizacion-de-datos-con-bibliotecas-de-python/blob/main/inmigrantes_canada.csv
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -27,4 +28,5 @@ plt.xticks(['1980', '1985','2010','2000'])
 plt.title('Inmigracion de colombianos hacia Canada')
 plt.xlabel('Año')
 plt.ylabel('Numero de inmigrantes')
+
 plt.show()
