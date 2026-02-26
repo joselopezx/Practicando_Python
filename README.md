@@ -21,7 +21,7 @@ parametro cols (rango) // en formato de excel ejp A:F
 
 nrows para obtener solo un numero especifo de filas
 
-##Parametros del grafico
+## Parametros del grafico
 *set_tietle* ingresa una cadena para añadirla como titulo
 *set_tick_params* parametros para los tick de un eje
 *figure* contenedor para el grafico como paramentros tiene (figsize = (#, #))
