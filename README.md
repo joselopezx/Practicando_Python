@@ -1,3 +1,8 @@
+>.[!Note].
+>Aqui puedes descargar tanto el lenguaje python.  
+>`Python` -> https://www.python.org/downloads/  
+
+
 ## Leer datos de CSV
 ## Leer Excel
 Para leer ub excel es necesario importar pandas
