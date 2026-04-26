@@ -1,7 +1,10 @@
 >[!NOTE]
 >Aqui puedes descargar tanto el lenguaje python.  
->`Python` -> https://www.python.org/downloads/  
+>`Python` -> https://www.python.org/downloads/
 
+## Fundamentos
+|Symbol| Meaning|
+| == | equals |
 
 ## Leer datos de CSV
 ## Leer Excel
