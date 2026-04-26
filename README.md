@@ -4,6 +4,7 @@
 
 ## Fundamentos
 |Symbol| Meaning|
+|------|--------|
 | == | equals |
 
 ## Leer datos de CSV
